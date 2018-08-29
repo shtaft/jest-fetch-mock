@@ -1,5 +1,5 @@
 {
-  "name": "jest-fetch-mock",
+  "name": "shtaft-jest-fetch-mock",
   "version": "1.6.4",
   "description": "fetch mock for jest",
   "main": "src/index.js",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jefflau/jest-fetch-mock.git"
+    "url": "git+https://github.com/shtaft/jest-fetch-mock.git"
   },
   "keywords": [
     "jest",
     "mock",
     "fetch"
   ],
-  "author": "Jeff Lau <jeff-lau@live.com> (http://jefflau.net/)",
+  "author": "Simon Taft <taft.simon@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jefflau/jest-fetch-mock/issues"
+    "url": "https://github.com/shtaft/jest-fetch-mock/issues"
   },
-  "homepage": "https://github.com/jefflau/jest-fetch-mock#readme",
+  "homepage": "https://github.com/shtaft/jest-fetch-mock#readme",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "promise-polyfill": "^7.1.1"
